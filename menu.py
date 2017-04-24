@@ -40,10 +40,10 @@ if __name__ == '__main__':
         [
             {
              "type":"miniprogram",
-             "name":"招投标搜索",
+             "name":"搜索",
              "url":"http://mp.weixin.qq.com",
              "appid":"wx3f8eb38c63060bf4",
-             "pagepath":"pages/index/index.wxml"
+             "pagepath":"pages/index/index"
             },
             {	
                "type":"view",
