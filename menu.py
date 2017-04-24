@@ -43,11 +43,11 @@ if __name__ == '__main__':
              "name":"招投标搜索",
              "url":"http://mp.weixin.qq.com",
              "appid":"wx3f8eb38c63060bf4",
-             "pagepath":"pages/index/index.html"
+             "pagepath":"pages/index/index.wxml"
             },
             {	
                "type":"view",
-               "name":"搜索",
+               "name":"订阅",
                "url":"http://www.soso.com/"
             },
             {
